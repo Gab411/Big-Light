@@ -1,0 +1,73 @@
+.body {
+	background-color:#F3F3F3;
+}
+/*Div da logo*/
+.logo {
+	margin-left: 1%;
+	margin-top:1%;
+	background-color:#5ABEBE;
+	width: 9%;
+	height: 9%;
+	border-radius: 10px;
+	box-shadow:5px 5px 2px #CCCCCC;
+	position: relative;
+	float: left;
+}
+
+#logo_img {
+	margin-left: 8%;
+	margin-bottom: 8%;
+	width: 85%;
+	height: 10%;
+	position: relative;
+}
+
+.header {
+	margin-top: 1%;
+	background-color: #A6C7C7;
+	width: 87%;
+	height: 20%;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px #CCCCCC;
+	position: relative;
+	float: left;
+	margin-left: 30px;
+}
+
+#sua_casa {
+	padding-left: 10%;
+	padding-top: 1%;
+	width: 77%;
+	height: 40%;
+}
+
+#site {
+	width: 28%;
+	position: relative;
+	padding-left: 1%;
+	
+}
+
+.sidebar {
+	margin-right: 1%;
+	margin-top:2%;
+	background-color:#E7E7E7;
+	width: 15%;
+	height: 500px;
+	border-radius: 5px;
+	position: relative;
+	float: right;
+	box-shadow:5px 5px 3px #CCCCCC;
+}
+
+.sidebar #search {
+	width: 85%;
+	text-align: center;
+	font-family:"Arial";
+	color:#C1C1C1;
+	padding: 2%;
+	border: 1px solid #CDCDCD;
+	margin: 5%;
+	margin-top: 7%;
+	font-size: 110%;
+}
